@@ -1,0 +1,12 @@
+#container{
+    border: 1px solid black;
+    
+    display: flex;
+    justify-content: space-between;
+}
+
+img{
+    height: 288px;
+    width: 288px ;
+}
+
